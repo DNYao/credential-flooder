@@ -4,8 +4,9 @@
 
 You're free to use the source code, just change the url and xpath elemnts for selenium.
 
+This project utilizes the *halo* and *selenium* python packages.
 
-Tell me if you want an official version. Otherwise, this is a just a fun little project.
+### Tell me if you want an official version. Otherwise, this is a just a fun little project.
 
 <p align="center">
   <img src="https://i.imgur.com/fICb794.png">
