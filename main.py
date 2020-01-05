@@ -24,7 +24,7 @@ def random_email():
     domains = ["@yahoo.com","@hotmail.com","@gmail.com","@aol.com","@mail.com"]
     return random_string(5) + random.choice(domains)
 
-url = "https://firebasestorage.googleapis.com/v0/b/kakaroto200d.appspot.com/o/playlie.html?alt=media&token=60fd7da0-d20d-48b3-95c5-516e110a09c8"
+url = "PUT URL HERE"
 #url = "https://api.ipify.org"
 amount = 0
 
