@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+#coding: utf-8
+#written by kyryloren. https://github.com/kyryloren/credential-flooder
+
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from halo import Halo
